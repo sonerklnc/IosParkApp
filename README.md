@@ -120,7 +120,7 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 **SONER KILINÇ**
 
-- GitHub: [@sonerkilinc](https://github.com/sonerkilinc)
+- GitHub: [@sonerklnc](https://github.com/sonerklnc)
 
 ## 🙏 Teşekkürler
 
